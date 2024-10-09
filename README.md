@@ -50,7 +50,11 @@ WHERE CONDITION = TRUE
 ```
 
 ### Data Visualization
+![Screenshot 2024-10-09 161305](https://github.com/user-attachments/assets/f2002cf4-8dbc-4b8c-a38c-9845e8986ce3)
+
+![Screenshot 2024-10-09 161420](https://github.com/user-attachments/assets/e874ab75-5d74-4bbb-9053-f153e07a02f6)
 
 |heading 1|heading 2|heading 3|
 |---------|--------|----------|
 |Table 1|Table 2|Table 3|
+
