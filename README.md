@@ -13,6 +13,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Results and Recommendations](#results-and-recommendations)
+
 ### Project Overview
 This project aims to analyze and visuaize revenue trends across countries and products of International Breweries to fuel growth and expansion
 ## Objectives
@@ -49,22 +51,35 @@ order by 2 desc
 ```
 
 ### Data Visualization
-```
+
 Sales Data was imported into Excel from SQL server database
-## chart 1
+## Chart 1
 This chart shows the revenue of each countries from 2017_2019
 ![Screenshot 2024-10-13 223555](https://github.com/user-attachments/assets/5391cf65-d697-404b-a906-ecd3a51d42ba)
 
-## chart 2
-This chart shows the revenue of various countries from each products (Brand)
+## Chart 2
+This chart shows the total revenue from products of International breweries (Brands)
 ![Screenshot 2024-10-13 223620](https://github.com/user-attachments/assets/dee38d6f-6f6a-4073-a2df-8537078df957)
-```
-### Results
-## Chart 1
-In 2017, Nigeria generated the highest revenue
-In 2018, Nigeria maintained it's top position
-In 2019, Ghana surpassed Nigeria, recording the highest revenue
 
-## chart 2
+### Results and Recommendations
+```
+## Chart 1
+-In 2017, Nigeria generated the highest revenue
+ This shows that Nigeria has a strong market presence
+-In 2018, Nigeria maintained it's top position
+-In 2019, Ghana surpassed Nigeria, recording the highest revenue
+ This shows that there are emerging opportunities in Ghana
+ Therefore, it is recommended that marketing strategies should be developed to tap into ghana's growth potential
+
+## Chart 2
+-Castle lite generated the highest revenue in Benin, Ghana, Nigeria, Senegal and Togo
+-Budweiser ranked second in revenue across the countries
+Castle lite's dominance across the countries indicates strong brand recognition and customer preference 
+ Therefore, it is recommended that International Breweries keep investing in castle lite's marketing and distribution
+```
+
+
+
+
 
 
